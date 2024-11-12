@@ -17,9 +17,15 @@ When creating this project, I wanted to make sure it had the right weather theme
 
 I added Google Fonts from an import option from the Google font page. I then styled the app interface by size and colour.  
 
+To make it accessible for mobile I used media queries to resize to app so it will fit all mobile screen devices. A scrollbar was added so you could see the weather at various times throughout the next 9 hours. 
+
 JAVASCRIPT: 
 
-To make it accessible for mobile I used media queries to resize to app so it will fit all mobile screen devices. A scrollbar was added so you could see the weather at various times throughout the next 9 hours. 
+JavaScript was used to 
+
+
+
+OTHER: 
 
 I then created a domain using Github pages to generate a website domain so the app can be accessible on any device.
 
