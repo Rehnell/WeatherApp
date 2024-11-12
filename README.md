@@ -1,3 +1,11 @@
 # WeatherApp
 
-This Weather App is created by HTML, CSS and JavaScript and is able to put any town or city in the world and it will provide you the current and future weather within 24hours. 
+I have created this weather app using HTML, CSS and JavaScript. You are able to type in a city worldwide, and it will tell you the current weather of that city and the weather for every 3 hours within 9 hours ahead.
+
+When creating this project, I wanted to make sure it had the right weather theme, so in CSS I used colours like blue to represent the sky and I wanted to make the app accessible on mobile, laptop, tablet and PC. 
+
+To make it accessible for mobile I used media queries to resize to app so it will fit all mobile screen devices. A scrollbar was added so you could see the weather at various times throughout the next 9 hours. 
+
+I then created a domain using Github pages to generate a website domain so the app can be accessible on any device.
+
+I thoroughly enjoyed creating this project. 
