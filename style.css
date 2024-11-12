@@ -132,3 +132,8 @@ button:hover {
 
 
 /* Mobile - 320px */
+
+@media only screen and (max-width: 320px) {
+    #weather-container {
+    max-width: 250px;
+}
