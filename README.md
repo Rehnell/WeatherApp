@@ -23,7 +23,7 @@ JAVASCRIPT:
 
 JavaScript was used to access the current and  future weather forecasts when typing in a city of your choice. 
 
-First I generated a API key which I used in
+First I generated a API key which I used as a const within a function. 
 
 
 
