@@ -1,11 +1,11 @@
 # WeatherApp
 
-I have created this weather app using HTML, CSS and JavaScript. You are able to type in a city worldwide, and it will tell you the current weather of that city and the weather for every 3 hours within 9 hours ahead.
+I have created this weather app from scratch  using HTML, CSS and JavaScript. You are able to type in a city worldwide, and it will tell you the current weather of that city and the weather for every 3 hours within 9 hours ahead.
 
 
 HTML: 
 
-
+Within the HTML file I used a boiler template ensuring  
 
 CSS: 
 
