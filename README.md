@@ -21,7 +21,9 @@ To make it accessible for mobile I used media queries to resize to app so it wil
 
 JAVASCRIPT: 
 
-JavaScript was used to 
+JavaScript was used to access the current and  future weather forecasts when typing in a city of your choice. 
+
+First I generated a API key which I used in
 
 
 
