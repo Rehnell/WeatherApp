@@ -65,6 +65,8 @@ function displayWeather(data) {
     }
 }
 
+// Display hourly forecast 
+
 function displayHourlyForecast(hourlyData) {
     const hourlyForecastDiv = document.getElementById('hourly-forecast');
     const next24Hours = hourlyData.slice(0, 8);
