@@ -33,6 +33,8 @@ function getWeather() {
         });
 }
 
+// Display temperature, hourly forecast and weather info & icon 
+
 function displayWeather(data) {
     const tempDivInfo = document.getElementById('temp-div');
     const weatherInfoDiv = document.getElementById('weather-info');
