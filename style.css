@@ -61,16 +61,6 @@ button:hover {
     background: #c4d7f6;
 }
 
-/* h3 - Information Text */
-
-h3 {
-    font-family: "poppins";
-    font-size: 1rem;
-    color: white;
-    font-weight: normal;
-}
-    
-
 /* Temperature Div Paragraph */
 
 #temp-div p {
