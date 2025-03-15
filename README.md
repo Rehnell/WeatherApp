@@ -1,5 +1,7 @@
 # WeatherApp
 
+Take a look on a browser: https://rehnell.github.io/WeatherApp
+
 I have created this weather app from scratch  using HTML, CSS and JavaScript. You are able to type in a city worldwide, and it will tell you the current weather of that city and the weather for every 3 hours within 9 hours ahead.
 
 
