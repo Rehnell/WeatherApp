@@ -5,7 +5,7 @@
 /* App Body */
 
 body {
-    background: background-image: url("/WeatherApp/images/skybackground.jpg");
+    background-image: url("/WeatherApp/images/skybackground.jpg");
     font-family: 'poppins';
     display: flex;
     align-items: center;
